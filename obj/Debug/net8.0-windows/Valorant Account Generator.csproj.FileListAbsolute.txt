@@ -1,0 +1,27 @@
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\Valorant Account Generator.exe
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\Valorant Account Generator.deps.json
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\Valorant Account Generator.runtimeconfig.json
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\Valorant Account Generator.dll
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\Valorant Account Generator.pdb
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\Valorant Account Generator\bin\Debug\net8.0-windows\WebDriver.dll
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator_Content.g.cs
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator_MarkupCompile.cache
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.g.resources
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.AssemblyInfo.cs
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant.3181D148.Up2Date
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.dll
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\refint\Valorant Account Generator.dll
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.pdb
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\Valorant Account Generator.genruntimeconfig.cache
+C:\Users\Max\Desktop\Valorant Account Generator\obj\Debug\net8.0-windows\ref\Valorant Account Generator.dll

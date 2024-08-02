@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQqQDX2A15s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Desktop\\Valorant Account Generator\\Valorant Account Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.34.0\\selenium.webdriver.geckodriver.0.34.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\selenium.webdriver.geckodriver.win64\\0.34.0\\selenium.webdriver.geckodriver.win64.0.34.0.nupkg.sha512"
+  ],
+  "logs": []
+}
